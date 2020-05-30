@@ -1,0 +1,13 @@
+#bottom {
+    margin-right: 40%;
+}
+
+#middle {
+    display: flex;
+    justify-content: space-around;
+}
+
+#description {
+    margin-left: 10%;
+    color: gray;
+}

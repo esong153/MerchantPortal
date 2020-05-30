@@ -1,0 +1,10 @@
+#button {
+    float: left;
+    margin: 20px;
+    width: 100%;
+    padding-right: 90%;
+}
+
+#tables {
+    width: 60%;
+}
