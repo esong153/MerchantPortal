@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/MerchantPortal/static/css/main.3825b5f0.chunk.css",
+    "main.js": "/MerchantPortal/static/js/main.3d84067d.chunk.js",
+    "main.js.map": "/MerchantPortal/static/js/main.3d84067d.chunk.js.map",
+    "runtime-main.js": "/MerchantPortal/static/js/runtime-main.f023ef32.js",
+    "runtime-main.js.map": "/MerchantPortal/static/js/runtime-main.f023ef32.js.map",
+    "static/css/2.af3c1da9.chunk.css": "/MerchantPortal/static/css/2.af3c1da9.chunk.css",
+    "static/js/2.835b627d.chunk.js": "/MerchantPortal/static/js/2.835b627d.chunk.js",
+    "static/js/2.835b627d.chunk.js.map": "/MerchantPortal/static/js/2.835b627d.chunk.js.map",
+    "index.html": "/MerchantPortal/index.html",
+    "precache-manifest.df52872905e5c7c0c652c62e34738c23.js": "/MerchantPortal/precache-manifest.df52872905e5c7c0c652c62e34738c23.js",
+    "service-worker.js": "/MerchantPortal/service-worker.js",
+    "static/css/2.af3c1da9.chunk.css.map": "/MerchantPortal/static/css/2.af3c1da9.chunk.css.map",
+    "static/css/main.3825b5f0.chunk.css.map": "/MerchantPortal/static/css/main.3825b5f0.chunk.css.map",
+    "static/js/2.835b627d.chunk.js.LICENSE.txt": "/MerchantPortal/static/js/2.835b627d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f023ef32.js",
+    "static/css/2.af3c1da9.chunk.css",
+    "static/js/2.835b627d.chunk.js",
+    "static/css/main.3825b5f0.chunk.css",
+    "static/js/main.3d84067d.chunk.js"
+  ]
+}
